@@ -245,4 +245,4 @@ This repository serves as the official landing page for Aurora HDR. The software
 **Get the most recent version of Aurora HDR today!**
 
 ---
-**Last updated:** 2026-10-23 22:49:54 UTC
+**Last updated:** 2026-10-24 01:19:18 UTC
